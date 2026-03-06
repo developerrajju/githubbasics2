@@ -1,4 +1,0 @@
-created for newbranch 2
-what is the use of github ?
-what is git and github difference between them
-git commands as git init, git add ,git commit, git push, git pull, git remote add origin <url>ggit
